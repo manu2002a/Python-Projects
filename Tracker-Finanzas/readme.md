@@ -47,7 +47,7 @@ Una vez ejecutado el comando, Streamlit abrirá automáticamente la aplicación 
 
 6. Para salir de streamlit en al terminal pulse:
 
-Ctrl + c
+
 
 7. Para desactivar el entorno virtual usamos este comando:
 
