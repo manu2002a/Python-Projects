@@ -40,7 +40,7 @@ cd C:\Users\Manu\Desktop\Pizza-Contra-Bestias
 
 2. Crea un entorno virtual:
 
-python -m venv venv
+py -3.11 -m venv venv
 
 3. Activa el entorno virtual:
 
