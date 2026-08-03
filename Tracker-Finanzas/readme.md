@@ -45,7 +45,11 @@ python -m streamlit run app.py
 
 Una vez ejecutado el comando, Streamlit abrirá automáticamente la aplicación en el navegador. Si no ocurre, copia la dirección que aparece en la terminal (normalmente http://localhost:8501) y pégala en tu navegador.
 
-6. Para desactivar el entorno virtual usamos este comando:
+6. Para salir de streamlit en al terminal pulse:
+
+Ctrl + c
+
+7. Para desactivar el entorno virtual usamos este comando:
 
 deactivate
 
